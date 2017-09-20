@@ -1,0 +1,6 @@
+# ignoring cfm and jquery dev file
+*.cfm
+jquery_blah.js
+# ignore all files apart from html
+!*.html
+
